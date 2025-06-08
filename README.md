@@ -33,6 +33,8 @@ Public Safety & Compliance: Can be used in public spaces to ensure mask complian
 
 Smart Surveillance: Integrate with security cameras for automated monitoring.
 
+The video illustration of the project can be observed at the following link which will direct you to the linkedin:
+
 Healthcare Monitoring: Deploy in hospitals and clinics for safety compliance.
 
 This project demonstrates the power of combining deep learning, computer vision, and real-time image processing for an impactful AI application. 
