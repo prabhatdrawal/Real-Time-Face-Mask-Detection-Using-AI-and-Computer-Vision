@@ -40,3 +40,7 @@ Healthcare Monitoring: Deploy in hospitals and clinics for safety compliance.
 This project demonstrates the power of combining deep learning, computer vision, and real-time image processing for an impactful AI application. 
 
 AI for a safer & smarter world.
+
+The following link demonstrate the workage of the project as defined above:
+
+https://www.linkedin.com/posts/prabhat-rawal_real-time-face-mask-detection-using-ai-and-activity-7292188548869275648-3rty?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJv9QoBVUq54Azc5MloEqz1Dy1Wqe0VJK8
